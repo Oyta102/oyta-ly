@@ -1,6 +1,10 @@
 
 # Oyta-ly
 ## This PHP
+### composer
+~~~
+composer require oyta/oyta-ly
+~~~
 
 ~~~
 use Oyta\OytaLy\Join;
