@@ -6,6 +6,7 @@
 composer require oyta/oyta-ly
 ~~~
 
+### use
 ~~~
 use Oyta\OytaLy\Join;
 ~~~
