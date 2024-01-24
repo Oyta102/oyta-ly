@@ -1,0 +1,16 @@
+{
+    "name": "oyta/oyta-ly",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oyta\\OytaLy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oyta",
+            "email": "oyta@daucn.com"
+        }
+    ],
+    "require": {}
+}
